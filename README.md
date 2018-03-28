@@ -1,5 +1,8 @@
 # CA_Freeways-Traffic_Analysis
 
+
+![alt text](https://raw.githubusercontent.com/tdbuck78/CA_Freeways-Traffic_Analysis/master/freeway_visual.png)
+
 ###  Description
 ---
 
